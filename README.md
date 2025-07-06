@@ -1,5 +1,6 @@
 # Playwright End-to-End Automation Testing Template
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/recohcity/playwright-e2e-template)
 [![CI](https://github.com/recohcity/playwright-e2e-template/actions/workflows/playwright.yml/badge.svg)](https://github.com/recohcity/playwright-e2e-template/actions)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E=18.0.0-blue.svg)](https://nodejs.org/)
