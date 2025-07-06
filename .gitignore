@@ -1,0 +1,23 @@
+# Playwright自动化测试相关
+playwright-test-logs/*
+!playwright-test-logs/.gitkeep
+playwright-report/*
+!playwright-report/.gitkeep
+test-results/*
+!test-results/.gitkeep
+
+# Node依赖
+node_modules/
+
+# 日志与缓存
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache/
+
+# Playwright认证状态（如有）
+playwright/.auth/
+
+# 其他常见忽略
+.DS_Store
+.env*

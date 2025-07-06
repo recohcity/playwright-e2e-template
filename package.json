@@ -1,0 +1,25 @@
+{
+  "name": "playwright-e2e-template",
+  "version": "1.0.0",
+  "description": "Playwright全链路自动化测试闭环工程模板",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "playwright test",
+    "test:e2e": "playwright test && node scripts/archive-test-results.js",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "24.0.10",
+    "@types/react": "19.1.8",
+    "fs-extra": "^11.3.0",
+    "next": "^13.4.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
