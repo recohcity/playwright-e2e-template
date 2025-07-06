@@ -8,7 +8,7 @@ English | [中文文档 (Chinese)](README.zh-CN.md)
 
 This template repository provides best practices for Playwright + Next.js end-to-end automation testing, performance data collection, report archiving, API aggregation, and frontend visualization. It is suitable for modern web project engineering and team collaboration.
 
-- [Engineering Guide & Migration](docs/automated_testing_workflow.md) | [Engineering Guide (EN)](docs/automated_testing_workflow.en.md)
+-  [Engineering Guide (EN)](docs/automated_testing_workflow.en.md)|[Engineering Guide & Migration（中文）](docs/automated_testing_workflow.md) 
 - [FAQ (EN)](docs/FAQ.en.md) | [FAQ (中文)](docs/FAQ.zh-CN.md)
 - [Contributing Guide (EN)](CONTRIBUTING.en.md) | [贡献指南 (中文)](CONTRIBUTING.zh-CN.md)
 - [Changelog](CHANGELOG.md)
