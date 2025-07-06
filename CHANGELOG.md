@@ -2,9 +2,9 @@
 
 ## v0.0.1 (2025-07-06)
 
-- 首次发布 Playwright+Next.js 全链路自动化测试闭环模板工程
-- 支持主流程与临时测试分离，目录结构清晰
-- 自动采集性能与交互数据，归档为标准 Markdown 报告
-- 归档脚本自动同步报告到 public 目录，前端仪表盘可直接聚合展示
-- 提供标准仪表盘页面，支持趋势、分组、主要指标可视化
-- 提供详细工程实践指南与 FAQ，适合新项目一键迁移和团队协作 
+- Initial release of Playwright+Next.js end-to-end automation testing template project
+- Supports separation of main and temporary tests, clear directory structure
+- Automatically collects performance and interaction data, archives as standard Markdown reports
+- Archiving script automatically syncs reports to the public directory, dashboard can directly aggregate and display
+- Provides a standard dashboard page, supports trend, grouping, and key metrics visualization
+- Includes detailed engineering guide and FAQ, suitable for one-click migration and team collaboration 

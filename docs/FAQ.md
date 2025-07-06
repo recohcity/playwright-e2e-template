@@ -1,5 +1,7 @@
 # Playwright自动化测试工程常见问题FAQ
 
+[English FAQ](FAQ.en.md) | [中文FAQ](FAQ.zh-CN.md)
+
 ## 1. 为什么E2E流程偶发失败？
 - 检查断言是否基于页面唯一提示区域，避免依赖动画/异步渲染。
 - 推荐：`await expect(page.locator('#result-tip')).toHaveText('操作成功');`
